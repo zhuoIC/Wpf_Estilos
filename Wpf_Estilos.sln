@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_Estilos", "Wpf_Estilos\Wpf_Estilos.csproj", "{E6E69B74-552A-4CBD-94EF-AFF02F6EC28F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6E69B74-552A-4CBD-94EF-AFF02F6EC28F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E69B74-552A-4CBD-94EF-AFF02F6EC28F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E69B74-552A-4CBD-94EF-AFF02F6EC28F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E69B74-552A-4CBD-94EF-AFF02F6EC28F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
